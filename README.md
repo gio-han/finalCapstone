@@ -1,11 +1,13 @@
 # Capstone Project - Natural Language Processing (NLP) Applications
 
 
+
 ## Table of Contents
 
 * Project Description
 * Installation
 * Usage
+
 
 
 ## Project Description
@@ -29,12 +31,14 @@ The repository also contains a brief report/summary in PDF format, which include
 * Insights into the model's strengths and limitations.
 
 
+
 ## Installation
 
 Ensure you have the following packages installed:
 * spaCy, including the small (en_core_web_sm) and medium (en_core_web_md) English language models
 * spacytextblob, including additional data 'corpora' (python -m textblob.download_corpora)
 * pandas
+
 
 
 ## Usage
