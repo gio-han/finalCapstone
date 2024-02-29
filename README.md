@@ -1,7 +1,14 @@
 # Capstone Project - Natural Language Processing (NLP) Applications
 
 
-## Description of the Project
+## Table of Contents
+
+* Project Description
+* Installation
+* Usage
+
+
+## Project Description
 
 The Python program in this repository performs sentiment analysis on a dataset of product reviews.
 
@@ -31,6 +38,8 @@ Ensure you have the following packages installed:
 
 
 ## Usage
+
+Once you have dowloaded the Python as well as the CSV file, and installed all the necessary packages, you are ready to run the code.
 
 Below is a screenshot of part of the output of the code.
 
