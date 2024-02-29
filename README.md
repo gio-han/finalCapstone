@@ -39,7 +39,7 @@ Ensure you have the following packages installed:
 
 ## Usage
 
-Once you have dowloaded the Python as well as the CSV file, and installed all the necessary packages, you are ready to run the code.
+Once you have downloaded the Python as well as the CSV files, and installed all the necessary packages, you are ready to run the code.
 
 Below is a screenshot of part of the output of the code.
 
