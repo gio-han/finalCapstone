@@ -1,5 +1,3 @@
-# finalCapstone
-
 # Capstone Project - Natural Language Processing (NLP) Applications
 
 
