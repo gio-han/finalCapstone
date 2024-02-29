@@ -32,5 +32,7 @@ Ensure you have the following packages installed:
 
 ## Usage
 
+Below is a screenshot of part of the output of the code:
+
 ![A screenshot of part of the output of the code](https://github.com/gio-han/finalCapstone/assets/151397333/647c5a22-6fe6-4873-9c2d-d74544eba339)
 
