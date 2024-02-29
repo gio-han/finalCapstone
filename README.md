@@ -38,5 +38,6 @@ Note:
 * Polarity scores range from -1 to 1, where -1 is negative, 0 is neutral and 1 is positive.
 * Subjectivity scores range from 0 to 1, where 0 is objective (factual) and 1 is subjective (opinionated).
 
+
 ![A screenshot of part of the output of the code](https://github.com/gio-han/finalCapstone/assets/151397333/647c5a22-6fe6-4873-9c2d-d74544eba339)
 
