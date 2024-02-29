@@ -28,3 +28,11 @@ Ensure you have the following packages installed:
 * spaCy, including the small (en_core_web_sm) and medium (en_core_web_md) English language models
 * spacytextblob, including additional data 'corpora' (python -m textblob.download_corpora)
 * pandas
+
+
+## Usage
+
+Below is a screenshot of the output of the code:
+
+(https://github.com/gio-han/finalCapstone/assets/151397333/647c5a22-6fe6-4873-9c2d-d74544eba339)
+
